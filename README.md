@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hadjersh97
 - 👀 I’m interested in web develepement & artificial intelligence 
 - 🌱 I’m currently learning laravel & react
-- 💞️ I’m looking to find job
+- 💞
 - 📫 How to reach me ...
 
 <!---
